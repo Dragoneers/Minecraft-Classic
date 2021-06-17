@@ -1,0 +1,1 @@
+So... I coded minecraft classic in html and css and javascript. the multiplayer functions dont work yet, because... issues. so, the original Classic Minecraft is [here](classic.minecraft.net)
